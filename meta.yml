@@ -25,8 +25,8 @@ license:
 plugin: true
 
 supported_coq_versions:
-  text: Coq 8.9
-  opam: '{ >= "8.7" < "8.9~" }'
+  text: Coq 8.10
+  opam: '{ >= "8.10" }'
 
 
 namespace: ReductionEffect

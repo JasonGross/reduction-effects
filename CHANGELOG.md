@@ -6,6 +6,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.2] - 2020-01-28
+
 ### Added
 - Support Coq 8.10, 8.11
 
@@ -24,5 +26,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [PrintingEffect] module, including [print] and [print_id] methods.
 
 [Unreleased]: https://github.com/coq-community/reduction-effects/compare/v0.1.1...master
+[0.1.2]: https://github.com/coq-community/reduction-effects/compare/v0.1.1...v0.1.2
 [0.1.1]: https://github.com/coq-community/reduction-effects/compare/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/coq-community/reduction-effects/releases/tag/v0.1.0
